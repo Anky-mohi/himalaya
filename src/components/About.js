@@ -32,16 +32,7 @@ const About = () => {
                     <a href="/About">About</a>
                   </li>
                   <li class="header__list--items">
-                    <a href="/services.html">Services</a>
-                  </li>
-                  <li class="header__list--items">
-                    <a href="/services.html">Services</a>
-                  </li>
-                  <li class="header__list--items">
-                    <a href="/services.html">Services</a>
-                  </li>
-                  <li class="header__list--items">
-                    <a href="/services.html">Services</a>
+                    <a href="#">Services</a>
                   </li>
                   <a href="#" className="abc">
                     Our Vision
