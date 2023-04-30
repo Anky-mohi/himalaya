@@ -34,18 +34,15 @@ const About = () => {
                   <li class="header__list--items">
                     <a href="/services.html">Services</a>
                   </li>
-                  <a href="#" className="abc">
-                    Our Vision
-                  </a>
-                  <a href="#" className="abc">
-                    Our Vision
-                  </a>
-                  <a href="#" className="abc">
-                    Our Vision
-                  </a>
-                  <a href="#" className="abc">
-                    Our Vision
-                  </a>
+                  <li class="header__list--items">
+                    <a href="/services.html">Services</a>
+                  </li>
+                  <li class="header__list--items">
+                    <a href="/services.html">Services</a>
+                  </li>
+                  <li class="header__list--items">
+                    <a href="/services.html">Services</a>
+                  </li>
                   <a href="#" className="abc">
                     Our Vision
                   </a>
