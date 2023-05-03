@@ -73,10 +73,8 @@ const Home = () => {
                 <p class="banner__content--supportText">
                   Simples, Intuitivo e Perfeitamente Elaborado !
                 </p>
-                <a href="/Contact" class="abc">
-                  {" "}
-                  Contact Us
-                </a>
+                <Link to="/Contact" class="abc"> {" "}
+                  Contact Us</Link>
               </div>
             </div>
           </div>
@@ -95,9 +93,8 @@ const Home = () => {
                 outros domínios relacionados.
               </p>
               <div class="introduction__button">
-                <a href="/Contact" class="abc">
-                  Contact Us
-                </a>
+              <Link to="/Contact" class="abc"> {" "}
+                  Contact Us</Link>
               </div>
             </div>
           </div>

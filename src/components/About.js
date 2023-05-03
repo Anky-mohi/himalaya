@@ -55,9 +55,8 @@ const About = () => {
                 <p class="banner__content--supportText">
                 Simples, Intuitivo e Perfeitamente Elaborado!
                 </p>
-                <a href="/Contact" class="abc">
-                  Contact
-                </a>
+                <Link to="/Contact" class="abc"> {" "}
+                  Contact Us</Link>
               </div>
             </div>
           </div>
