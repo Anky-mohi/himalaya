@@ -33,7 +33,7 @@ const Home = () => {
                     <Link to="/About">About</Link>
                   </li>
                   <li class="header__list--items">
-                    <a href="#">Services</a>
+                    <Link to="/Services">Services</Link>
                   </li>
                   <a href="#" className="abc">
                     Our Vision
@@ -41,7 +41,8 @@ const Home = () => {
                 </ul>
               </nav>
             </div>
-            <i class="fa-solid fa-bars"></i>
+            <i class="fa-solid fa-bars">
+            </i>
           </div>
         </div>
       </header>
@@ -104,7 +105,11 @@ const Home = () => {
           <div class="container">
             <div class="expertise__wrapper">
               <div class="expertise__leftSide">
-                <img src="./svg.png" alt="" />
+                <div className="img1"> <img  src="./14258.jpg" alt=""/></div>
+               
+                <div className="img2"> <img src="./svg.png" alt="" /></div>
+               
+
               </div>
               <div class="expertise__rightSide">
                 <div class="expertise__card--wrapper">
@@ -178,6 +183,75 @@ const Home = () => {
             </div>
           </div>
         </section>
+        <section id="what-we-do">
+		<div class="container-fluid">
+			<h2 class="section-title mb-2 h1">What we do</h2>
+			<p class="text-center text-muted h5">Having and managing a correct marketing strategy is crucial in a fast moving market.</p>
+			<div class="row mt-5">
+				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+					<div class="card">
+						<div class="card-block block-1">
+							<h3 class="card-title">WEB DEVELOPMENT</h3>
+							<p class="card-text">An affordable web design service is what you get when we designs your web site.</p>
+							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Read more<i class="fa fa-angle-double-right ml-2"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+					<div class="card">
+						<div class="card-block block-2">
+							<h3 class="card-title">Social media Marketing</h3>
+							<p class="card-text">We have different and new generations ideas to focus on market with young talent.</p>
+							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Read more<i class="fa fa-angle-double-right ml-2"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+					<div class="card">
+						<div class="card-block block-3">
+							<h3 class="card-title">GLOBAL SUPPORT</h3>
+							<p class="card-text">We help technology companies grow by providing a world-class customer experience to their customers.</p>
+							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Read more<i class="fa fa-angle-double-right ml-2"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+					<div class="card">
+						<div class="card-block block-4">
+							<h3 class="card-title">Animation
+And
+Digital Film Making</h3>
+							<p class="card-text">Accomplished with passion,Designed to perfection,The fine art of creativity
+
+Sample Work.</p>
+							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Read more<i class="fa fa-angle-double-right ml-2"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+					<div class="card">
+						<div class="card-block block-5">
+							<h3 class="card-title">OFFSHORE SERVICES</h3>
+							<p class="card-text">We help you organize business and technology strategies in cost effective manner..</p>
+							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Read more<i class="fa fa-angle-double-right ml-2"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+					<div class="card">
+						<div class="card-block block-6">
+							<h3 class="card-title">eCommerce</h3>
+							<p class="card-text">We have a lot of best technology like we use reactjs,node js and other many to build beat spa website</p>
+							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Read more<i class="fa fa-angle-double-right ml-2"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>	
+	</section>
+    <br></br>
         <section class="contact">
           <div class="container">
             <div class="contact__heading">
@@ -186,6 +260,8 @@ const Home = () => {
                 <span>Together.</span>
               </p>
             </div>
+            <br></br>
+            <br></br>
             <div class="contact__wrapper">
               <div class="contact__leftSide">
                 <div class="contact__content">
@@ -279,6 +355,7 @@ const Home = () => {
           </div>
         </section>
       </main>
+      
 
       <div class="main-page-sec main-page-sec2" style={styles}>
         <div class="row">
