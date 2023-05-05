@@ -65,7 +65,7 @@ const Services = () => {
                 </div>
                 <div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
                   <div class="et_pb_text_inner">
-                    <h2> &nbsp;&nbsp;Design, Development and Marketing</h2>
+                    <h2> Design, Development and Marketing</h2>
                   </div>
                 </div>
                 <div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">

@@ -535,7 +535,7 @@ Sample Work.</p>
               </li>
               <li class="expertise__supportText">
                 <p class="address-p">
-                  Rua Manilla 407 Jd São Fernando Barueri - São Paulo Brazil
+                 São Paulo Brazil
                 </p>
                 <p>
                   <i class="fa fa-envelope-o" aria-hidden="true"></i>

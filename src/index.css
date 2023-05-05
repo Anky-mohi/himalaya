@@ -981,10 +981,7 @@ section .section-title{
 }
 
 
-.h1, h1 {
-  font-size: calc(1.375rem + 1.5vw);
-  margin-left: 150px;
-}
+
 
 .head {
   margin-left: 300px;
