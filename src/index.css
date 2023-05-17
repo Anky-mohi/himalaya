@@ -769,6 +769,7 @@ footer {
 .whatwedo__heading .like-text.popup-text .text-effect:nth-child(2)::before {
   content: "Q";
 }
+
 .whatwedo__heading .like-text.popup-text .text-effect:nth-child(3)::before {
   content: "U";
 }
@@ -788,16 +789,16 @@ footer {
   content: "F";
 }
 .whatwedo__heading .like-text.popup-text .text-effect:nth-child(9)::before {
-  content: "A";
+  content: "";
 }
 .whatwedo__heading .like-text.popup-text .text-effect:nth-child(10)::before {
-  content: "Z";
+  content: "";
 }
 .whatwedo__heading .like-text.popup-text .text-effect:nth-child(11)::before {
-  content: "S";
+  content: "";
 }
 .whatwedo__heading .like-text.popup-text .text-effect:nth-child(12)::before {
-  content: "A";
+  content: "";
 }
 .whatwedo__heading .like-text.popup-text .text-effect:hover::before {
   top: -10px;

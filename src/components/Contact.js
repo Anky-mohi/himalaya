@@ -73,7 +73,7 @@ const Contact = () => {
                     <div class="form-outline flex-fill mb-0">
                       <input type="text"  id="name"
                                 name="name"  class="form-control" />
-                      <label class="form-label" for="form3Example1c">Your Name</label>
+                      <label class="form-label" for="form3Example1c"> SOU NOME</label>
                     </div>
                   </div>
 
@@ -82,7 +82,7 @@ const Contact = () => {
                     <div class="form-outline flex-fill mb-0">
                       <input type="email"  id="email"
                                 name="email" class="form-control" />
-                      <label class="form-label" for="form3Example3c">Your Email</label>
+                      <label class="form-label" for="form3Example3c">SOU EMAIL</label>
                     </div>
                   </div>
 
@@ -91,11 +91,11 @@ const Contact = () => {
                     <div class="form-outline flex-fill mb-0">
                       <input type="text"  id="subject"
                                 name="subject" class="form-control" />
-                      <label class="form-label" for="form3Example1c">Message</label>
+                      <label class="form-label" for="form3Example1c">MENSAGENS</label>
                     </div>
                   </div>
                   <div class="d-flex justify-content-center mx-4 mb-3 mb-lg-4 ">
-                    <button type="submit" class="btn btn-primary bg-warning btn-lg">Submit</button>
+                    <button type="submit" class="btn btn-primary bg-warning btn-lg">send</button>
                   </div>
 
                 </form>

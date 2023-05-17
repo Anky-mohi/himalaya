@@ -132,7 +132,7 @@ const Home = () => {
                     </div>
                   </div>
                   <div class="expertise__card">
-                    <div class="expertise__heading">Product Develop</div>
+                    <div class="expertise__heading">Product Development</div>
                     <div class="expertise__supportText">
                       Desenvolvimento de produto Somos uma empresa de
                       desenvolvimento de sites de comércio eletrônico
@@ -191,27 +191,30 @@ const Home = () => {
 				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
 					<div class="card">
 						<div class="card-block block-1">
-							<h3 class="card-title">WEB DEVELOPMENT</h3>
-							<p class="card-text">An affordable web design service is what you get when we designs your web site.</p>
-							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Read more<i class="fa fa-angle-double-right ml-2"></i></a>
+							<h3 class="card-title">DESENVOLVIMENTO WEB</h3>
+							<p class="card-text">Um serviço de web design acessível é o que você obtém quando projetamos seu site..</p>
+							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Consulte Mais informação<i class="fa fa-angle-double-right ml-2"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
 					<div class="card">
 						<div class="card-block block-2">
-							<h3 class="card-title">Social media Marketing</h3>
-							<p class="card-text">We have different and new generations ideas to focus on market with young talent.</p>
-							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Read more<i class="fa fa-angle-double-right ml-2"></i></a>
+							<h3 class="card-title">Marketing de mídia social
+</h3>
+							<p class="card-text">Temos ideias diferentes e de novas gerações para focar no mercado com jovens talentos.
+
+.</p>
+							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Consulte Mais informação<i class="fa fa-angle-double-right ml-2"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
 					<div class="card">
 						<div class="card-block block-3">
-							<h3 class="card-title">GLOBAL SUPPORT</h3>
-							<p class="card-text">We help technology companies grow by providing a world-class customer experience to their customers.</p>
-							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Read more<i class="fa fa-angle-double-right ml-2"></i></a>
+							<h3 class="card-title">SUPORTE GLOBAL</h3>
+							<p class="card-text">Ajudamos as empresas de tecnologia a crescer, fornecendo uma experiência de cliente de classe mundial para seus clientes..</p>
+							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Consulte Mais informação<i class="fa fa-angle-double-right ml-2"></i></a>
 						</div>
 					</div>
 				</div>
@@ -220,31 +223,27 @@ const Home = () => {
 				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
 					<div class="card">
 						<div class="card-block block-4">
-							<h3 class="card-title">Animation
-And
-Digital Film Making</h3>
-							<p class="card-text">Accomplished with passion,Designed to perfection,The fine art of creativity
-
-Sample Work.</p>
-							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Read more<i class="fa fa-angle-double-right ml-2"></i></a>
+							<h3 class="card-title">Animação e produção de filmes digitais</h3>
+							<p class="card-text">Realizado com paixão, projetado com perfeição, a arte da criatividade Sample Work..</p>
+							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Consulte Mais informação<i class="fa fa-angle-double-right ml-2"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
 					<div class="card">
 						<div class="card-block block-5">
-							<h3 class="card-title">OFFSHORE SERVICES</h3>
-							<p class="card-text">We help you organize business and technology strategies in cost effective manner..</p>
-							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Read more<i class="fa fa-angle-double-right ml-2"></i></a>
+							<h3 class="card-title">SERVIÇOS OFFSHORE</h3>
+							<p class="card-text">Ajudamos você a organizar estratégias de negócios e tecnologia de maneira econômica..</p>
+							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Consulte Mais informação<i class="fa fa-angle-double-right ml-2"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
 					<div class="card">
 						<div class="card-block block-6">
-							<h3 class="card-title">eCommerce</h3>
-							<p class="card-text">We have a lot of best technology like we use reactjs,node js and other many to build beat spa website</p>
-							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Read more<i class="fa fa-angle-double-right ml-2"></i></a>
+							<h3 class="card-title">comércio eletrônico</h3>
+							<p class="card-text">Temos muitas das melhores tecnologias, como usamos reactjs, node js e outras muitas para construir o site do spa beat</p>
+							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Consulte Mais informação<i class="fa fa-angle-double-right ml-2"></i></a>
 						</div>
 					</div>
 				</div>

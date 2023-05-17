@@ -90,15 +90,15 @@ Criamos soluções de aplicativos para web e dispositivos móveis que irão enca
               <div class="whatwedo__heading">
                 <p class="like-text popup-text">
                   <span class="text-effect">O</span>
-
+                  &nbsp;&nbsp;
                   <span class="text-effect">Q</span>
                   <span class="text-effect">U</span>
                   <span class="text-effect">E</span>
-
+                  &nbsp;&nbsp;
                   <span class="text-effect">N</span>
                   <span class="text-effect">O</span>
                   <span class="text-effect">S</span>
-
+                  &nbsp;&nbsp;
                   <span class="text-effect">F</span>
                   <span class="text-effect">A</span>
                   <span class="text-effect">Z</span>
