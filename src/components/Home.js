@@ -15,6 +15,9 @@ const Home = () => {
 
   return (
     <>
+     <div className="whatsapp">
+          <a href="https://wa.me/5511947727979" target="blank"><img src="./icons8-whatsapp-48.png"/></a>
+        </div>
       <header>
         <div class="container">
           <div class="header">
@@ -74,11 +77,13 @@ const Home = () => {
                 <p class="banner__content--supportText">
                   Simples, Intuitivo e Perfeitamente Elaborado !
                 </p>
-                <Link to="/Contact" class="abc"> {" "}
-                  Contact Us</Link>
+                <a href="https://wa.me/5511947727979" class="abc"
+                  >CHAT NOW</a>
               </div>
+              
             </div>
           </div>
+          
         </section>
 
         <section class="introduction">
@@ -185,8 +190,9 @@ const Home = () => {
         </section>
         <section id="what-we-do">
 		<div class="container-fluid">
-			<h2 class="section-title mb-2 h1">What we do</h2>
-			<p class="text-center text-muted h5">Having and managing a correct marketing strategy is crucial in a fast moving market.</p>
+			<h2 class="section-title mb-2 h1">O QUE NÓS FAZEMOS</h2>
+			<p class="text-center text-muted h5"> Ter e gerenciar uma estratégia de marketing correta é crucial em um
+            mercado em rápida evolução..</p>
 			<div class="row mt-5">
 				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
 					<div class="card">
@@ -299,7 +305,7 @@ const Home = () => {
                           <div class="col-md-6">
                             <div class="md-form mb-0">
                               <label for="name" class="">
-                                SOU NOME
+                                SEU NOME
                               </label>
                               <input
                                 type="text"
@@ -312,7 +318,7 @@ const Home = () => {
                           <div class="row">
                             <div class="md-form mb-0">
                               <label for="email" class="">
-                                SOU EMAIL
+                                SEU EMAIL
                               </label>
                               <input
                                 type="text"

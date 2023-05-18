@@ -232,6 +232,11 @@ main {
     top: 20%;
   }
 }
+.we {
+  background-color: rgb(47 59 82 / 63%);
+  padding: 100px 20px;
+
+}
 .banner__content {
   background-color: rgba(0, 0, 0, 0.634);
   padding: 100px 20px;
@@ -986,4 +991,10 @@ section .section-title{
 
 .head {
   margin-left: 300px;
+}
+
+.whatsapp {
+  position: fixed;
+  bottom: 40px;
+  right: 20px;
 }

@@ -49,12 +49,12 @@ const Services = () => {
       </header>
       <section class="banner">
         <img
-          src="./pexels-karsten-madsen-18105.jpg"
+          src="./WhatsApp Image 2023-05-17 at 6.43.25 PM.jpeg"
           alt="About us banner image"
         />
         <div class="banner__content--wrapper">
           <div class="container">
-            <div class="banner__content">
+            <div class="we">
               <div class="head">
                 <div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
                   <div class="et_pb_text_inner">
@@ -85,38 +85,38 @@ const Services = () => {
       <br></br>
       <section id="what-we-do">
         <div class="container-fluid">
-          <h2 class="section-title mb-2 h1">What we do</h2>
+          <h2 class="section-title mb-2 h1">O QUE NÓS FAZEMOS</h2>
           <p class="text-center text-muted h5">
-            Having and managing a correct marketing strategy is crucial in a
-            fast moving market.
+            Ter e gerenciar uma estratégia de marketing correta é crucial em um
+            mercado em rápida evolução..
           </p>
           <br></br>
           <div class="row mt-5">
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
               <div class="card">
                 <div class="card-block block-1">
-                  <h3 class="card-title">WEB DEVELOPMENT</h3>
+                  <h3 class="card-title">DESENVOLVIMENTO WEB</h3>
                   <p class="card-text">
                     <img src="./19362653.jpg" />
-                    Himalayastechies creating and maintaining websites for
-                    businesses and organizations. It involves a range of tasks
-                    such as designing, coding, testing, and publishing web pages
-                    and applications. Web developers use various programming
-                    languages and frameworks to build websites that are
-                    functional, user-friendly, and visually appealing. They also
-                    ensure that websites are optimized for search engines,
-                    accessible to users with disabilities, and compatible with
-                    different devices and web browsers. As the online presence
-                    of businesses becomes increasingly important, web
-                    development has become a critical component of any company's
-                    digital strategy.
+                    Himalayastechies criando e mantendo sites para empresas e
+                    organizações. Envolve uma série de tarefas, como projetar,
+                    codificar, testar e publicar páginas e aplicativos da Web.
+                    Os desenvolvedores da Web usam várias linguagens de
+                    programação e estruturas para criar sites funcionais,
+                    amigáveis e visualmente atraentes. Eles também garantem que
+                    os sites sejam otimizados para mecanismos de pesquisa,
+                    acessíveis a usuários com deficiência e compatíveis com
+                    diferentes dispositivos e navegadores da web. À medida que a
+                    presença online das empresas se torna cada vez mais
+                    importante, o desenvolvimento web tornou-se um componente
+                    crítico da estratégia digital de qualquer empresa..
                   </p>
                   <a
                     href="https://www.fiverr.com/share/qb8D02"
                     title="Read more"
                     class="read-more"
                   >
-                    Read more<i class="fa fa-angle-double-right ml-2"></i>
+                    Consulte Mais informação<i class="fa fa-angle-double-right ml-2"></i>
                   </a>
                 </div>
               </div>
@@ -124,28 +124,30 @@ const Services = () => {
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
               <div class="card">
                 <div class="card-block block-2">
-                  <h3 class="card-title">Social media Marketing</h3>
+                  <h3 class="card-title">Marketing de mídia social</h3>
                   <p class="card-text">
-                  <img src="./5618169.jpg" />
-                    Himalayastechies creating and sharing content, engaging with
-                    followers, and running targeted advertising campaigns to
-                    reach a specific audience. Social media marketing can help
-                    businesses build brand awareness, increase website traffic,
-                    generate leads, and drive sales. The most popular social
-                    media platforms for marketing include Facebook, Instagram,
-                    Twitter, LinkedIn, and YouTube. To be successful in social
-                    media marketing, businesses need to develop a solid
-                    strategy, create high-quality content, and consistently
-                    engage with their followers. It is also important to track
-                    and analyze the performance of social media campaigns to
-                    ensure that they are meeting business objectives..
+                    <img src="./5618169.jpg" />
+                    Himalayastechies criando e compartilhando conteúdo,
+                    envolvendo-se com seguidores e executando campanhas
+                    publicitárias direcionadas para atingir um público
+                    específico. O marketing de mídia social pode ajudar as
+                    empresas a aumentar o reconhecimento da marca, aumentar o
+                    tráfego do site, gerar leads e impulsionar as vendas. As
+                    plataformas de mídia social mais populares para marketing
+                    incluem Facebook, Instagram, Twitter, LinkedIn e YouTube.
+                    Para ter sucesso no marketing de mídia social, as empresas
+                    precisam desenvolver uma estratégia sólida, criar conteúdo
+                    de alta qualidade e se envolver de forma consistente com
+                    seus seguidores. Também é importante acompanhar e analisar o
+                    desempenho das campanhas de mídia social para garantir que
+                    elas atendam aos objetivos de negócios.
                   </p>
                   <a
                     href="https://www.fiverr.com/share/qb8D02"
                     title="Read more"
                     class="read-more"
                   >
-                    Read more<i class="fa fa-angle-double-right ml-2"></i>
+                    Consulte Mais informação<i class="fa fa-angle-double-right ml-2"></i>
                   </a>
                 </div>
               </div>
@@ -153,30 +155,31 @@ const Services = () => {
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
               <div class="card">
                 <div class="card-block block-3">
-                  <h3 class="card-title">GLOBAL SUPPORT</h3>
+                  <h3 class="card-title">SUPORTE GLOBAL</h3>
                   <p class="card-text">
-                  <img src="./Wavy_Eco-06_Single-01.jpg" />
-                    Himalayastechies provide services to their customers around
-                    the world, helping them with their products or services.
-                    This support can come in many forms, such as phone, email,
-                    live chat, or self-help resources such as a knowledge base
-                    or FAQs. The purpose of global support is to assist
-                    customers in resolving issues or answering questions they
-                    may have about a product or service. Companies with global
-                    support teams often have dedicated support staff in various
-                    time zones to ensure customers receive prompt and effective
-                    assistance. Providing global support can help companies
-                    improve customer satisfaction, increase customer loyalty,
-                    and drive sales. It can also be a competitive advantage for
-                    companies looking to expand into new markets or compete on a
-                    global scale.
+                    <img src="./Wavy_Eco-06_Single-01.jpg" />
+                    Os Himalayastechies fornecem serviços a seus clientes em
+                    todo o mundo, ajudando-os com seus produtos ou serviços.
+                    Esse suporte pode vir de várias formas, como telefone,
+                    e-mail, bate-papo ao vivo ou recursos de autoajuda, como uma
+                    base de conhecimento ou perguntas frequentes. O objetivo do
+                    suporte global é ajudar os clientes a resolver problemas ou
+                    responder a perguntas que possam ter sobre um produto ou
+                    serviço. As empresas com equipes de suporte globais costumam
+                    ter equipes de suporte dedicadas em vários fusos horários
+                    para garantir que os clientes recebam assistência rápida e
+                    eficaz. Fornecer suporte global pode ajudar as empresas a
+                    melhorar a satisfação do cliente, aumentar a fidelidade do
+                    cliente e impulsionar as vendas. Também pode ser uma
+                    vantagem competitiva para empresas que buscam expandir para
+                    novos mercados ou competir em escala global.
                   </p>
                   <a
                     href="https://www.fiverr.com/share/qb8D02"
                     title="Read more"
                     class="read-more"
                   >
-                    Read more<i class="fa fa-angle-double-right ml-2"></i>
+                    Consulte Mais informação<i class="fa fa-angle-double-right ml-2"></i>
                   </a>
                 </div>
               </div>
@@ -187,28 +190,28 @@ const Services = () => {
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
               <div class="card">
                 <div class="card-block block-4">
-                  <h3 class="card-title">Animation And Digital Film Making</h3>
+                  <h3 class="card-title">Animação e produção de filmes digitais</h3>
                   <p class="card-text">
-                  <img src="./151.jpg" />
-                    Himalayastechies create visually stunning and engaging
-                    content through the use of computer-generated graphics,
-                    animation, and visual effects. It encompasses a wide range
-                    of techniques, including 2D and 3D animation, compositing,
-                    motion graphics, and special effects. In the animation
-                    industry, professionals use software tools such as Adobe
-                    Animate, Autodesk Maya, and Toon Boom Harmony to create
-                    animated content for television shows, movies, video games,
-                    and other digital media platforms. With 3D animation, they
-                    can create realistic characters and environments, which can
-                    be used in virtual reality and augmented reality
-                    applications.
+                    <img src="./151.jpg" />
+                    Os Himalayastechies criam conteúdo visualmente
+                    impressionante e atraente por meio do uso de gráficos,
+                    animações e efeitos visuais gerados por computador. Abrange
+                    uma ampla gama de técnicas, incluindo animação 2D e 3D,
+                    composição, gráficos em movimento e efeitos especiais. Na
+                    indústria da animação, os profissionais usam ferramentas de
+                    software como Adobe Animate, Autodesk Maya e Toon Boom
+                    Harmony para criar conteúdo animado para programas de
+                    televisão, filmes, videogames e outras plataformas de mídia
+                    digital. Com animação 3D, eles podem criar personagens e
+                    ambientes realistas, que podem ser usados em aplicações de
+                    realidade virtual e realidade aumentada.
                   </p>
                   <a
                     href="https://www.fiverr.com/share/qb8D02"
                     title="Read more"
                     class="read-more"
                   >
-                    Read more<i class="fa fa-angle-double-right ml-2"></i>
+                    Consulte Mais informação<i class="fa fa-angle-double-right ml-2"></i>
                   </a>
                 </div>
               </div>
@@ -216,27 +219,29 @@ const Services = () => {
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
               <div class="card">
                 <div class="card-block block-5">
-                  <h3 class="card-title">OFFSHORE SERVICES</h3>
+                  <h3 class="card-title">SERVIÇOS OFFSHORE</h3>
                   <p class="card-text">
-                  <img src="./6182753.jpg" />
-                    Offshore services refer to outsourcing business processes or
-                    functions to a foreign country or a third-party service
-                    provider. This can include a range of activities such as
-                    software development, customer support, data entry, and
-                    more. Offshore services can provide a number of benefits to
-                    businesses, including cost savings, access to specialized
-                    expertise, increased flexibility, and the ability to focus
-                    on core business functions. However, there are also
-                    potential risks and challenges, such as language and
-                    cultural barriers, time zone differences, and data security
-                    concerns
+                    <img src="./6182753.jpg" />
+                    Os serviços offshore referem-se à terceirização de processos
+                    ou funções de negócios para um país estrangeiro ou um
+                    provedor de serviços terceirizado. Isso pode incluir uma
+                    série de atividades, como desenvolvimento de software,
+                    suporte ao cliente, entrada de dados e muito mais. Os
+                    serviços offshore podem oferecer vários benefícios às
+                    empresas, incluindo economia de custos, acesso a
+                    conhecimentos especializados, maior flexibilidade e
+                    capacidade de se concentrar nas principais funções de
+                    negócios. No entanto, também existem riscos e desafios
+                    potenciais, como barreiras linguísticas e culturais,
+                    diferenças de fuso horário e preocupações com a segurança
+                    dos dados.
                   </p>
                   <a
                     href="https://www.fiverr.com/share/qb8D02"
                     title="Read more"
                     class="read-more"
                   >
-                    Read more<i class="fa fa-angle-double-right ml-2"></i>
+                    Consulte Mais informação<i class="fa fa-angle-double-right ml-2"></i>
                   </a>
                 </div>
               </div>
@@ -244,33 +249,33 @@ const Services = () => {
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
               <div class="card">
                 <div class="card-block block-6">
-                  <h3 class="card-title">eCommerce</h3>
+                  <h3 class="card-title">comércio eletrônico</h3>
                   <p class="card-text">
-                  <img src="./female_shopping_from_phone.jpg" />
-                    E-commerce, short for electronic commerce, refers to the
-                    buying and selling of goods and services over the internet.
-                    It involves online transactions between businesses,
-                    individuals, or entities, and can be conducted through
-                    various platforms, such as websites, mobile applications,
-                    and social media. E-commerce has revolutionized the way
-                    people shop, providing convenience, accessibility, and
-                    flexibility to both consumers and businesses. It allows
-                    businesses to reach a global audience and operate 24/7,
-                    while consumers can browse and purchase products from the
-                    comfort of their own homes. E-commerce platforms also offer
-                    various payment options, secure transactions, and
-                    personalized experiences, making online shopping a seamless
-                    process. With the continuous growth and advancements in
-                    technology, e-commerce is expected to continue its upward
-                    trajectory and dominate the retail industry in the years to
-                    come.
+                    <img src="./female_shopping_from_phone.jpg" />
+                    E-commerce, abreviação de comércio eletrônico, refere-se à
+                    compra e venda de bens e serviços pela internet. Envolve
+                    transações online entre empresas, indivíduos ou entidades e
+                    pode ser realizada por meio de várias plataformas, como
+                    sites, aplicativos móveis e mídias sociais. O comércio
+                    eletrônico revolucionou a maneira como as pessoas compram,
+                    oferecendo conveniência, acessibilidade e flexibilidade para
+                    consumidores e empresas. Ele permite que as empresas
+                    alcancem um público global e operem 24 horas por dia, 7 dias
+                    por semana, enquanto os consumidores podem navegar e comprar
+                    produtos no conforto de suas próprias casas. As plataformas
+                    de comércio eletrônico também oferecem várias opções de
+                    pagamento, transações seguras e experiências personalizadas,
+                    tornando as compras online um processo contínuo. Com o
+                    crescimento contínuo e os avanços tecnológicos, espera-se
+                    que o comércio eletrônico continue sua trajetória ascendente
+                    e domine o setor de varejo nos próximos anos.
                   </p>
                   <a
                     href="https://www.fiverr.com/share/qb8D02"
                     title="Read more"
                     class="read-more"
                   >
-                    Read more<i class="fa fa-angle-double-right ml-2"></i>
+                    Consulte Mais informação<i class="fa fa-angle-double-right ml-2"></i>
                   </a>
                 </div>
               </div>
