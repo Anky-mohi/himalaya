@@ -112,7 +112,7 @@ const Services = () => {
                     crítico da estratégia digital de qualquer empresa..
                   </p>
                   <a
-                    href="https://www.fiverr.com/share/qb8D02"
+                    
                     title="Read more"
                     class="read-more"
                   >
@@ -143,7 +143,7 @@ const Services = () => {
                     elas atendam aos objetivos de negócios.
                   </p>
                   <a
-                    href="https://www.fiverr.com/share/qb8D02"
+                  
                     title="Read more"
                     class="read-more"
                   >
@@ -170,12 +170,10 @@ const Services = () => {
                     para garantir que os clientes recebam assistência rápida e
                     eficaz. Fornecer suporte global pode ajudar as empresas a
                     melhorar a satisfação do cliente, aumentar a fidelidade do
-                    cliente e impulsionar as vendas. Também pode ser uma
-                    vantagem competitiva para empresas que buscam expandir para
-                    novos mercados ou competir em escala global.
+                    cliente e impulsionar as vendas.
                   </p>
                   <a
-                    href="https://www.fiverr.com/share/qb8D02"
+                    
                     title="Read more"
                     class="read-more"
                   >
@@ -207,7 +205,7 @@ const Services = () => {
                     realidade virtual e realidade aumentada.
                   </p>
                   <a
-                    href="https://www.fiverr.com/share/qb8D02"
+                
                     title="Read more"
                     class="read-more"
                   >
@@ -237,7 +235,7 @@ const Services = () => {
                     dos dados.
                   </p>
                   <a
-                    href="https://www.fiverr.com/share/qb8D02"
+                  
                     title="Read more"
                     class="read-more"
                   >
@@ -249,7 +247,7 @@ const Services = () => {
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
               <div class="card">
                 <div class="card-block block-6">
-                  <h3 class="card-title">comércio eletrônico</h3>
+                  <h3 class="card-title">Comércio eletrônico</h3>
                   <p class="card-text">
                     <img src="./female_shopping_from_phone.jpg" />
                     E-commerce, abreviação de comércio eletrônico, refere-se à
@@ -260,18 +258,11 @@ const Services = () => {
                     eletrônico revolucionou a maneira como as pessoas compram,
                     oferecendo conveniência, acessibilidade e flexibilidade para
                     consumidores e empresas. Ele permite que as empresas
-                    alcancem um público global e operem 24 horas por dia, 7 dias
-                    por semana, enquanto os consumidores podem navegar e comprar
-                    produtos no conforto de suas próprias casas. As plataformas
-                    de comércio eletrônico também oferecem várias opções de
-                    pagamento, transações seguras e experiências personalizadas,
-                    tornando as compras online um processo contínuo. Com o
-                    crescimento contínuo e os avanços tecnológicos, espera-se
-                    que o comércio eletrônico continue sua trajetória ascendente
-                    e domine o setor de varejo nos próximos anos.
+                    alcancem um público global e operem 24 horas por dia.
+
                   </p>
                   <a
-                    href="https://www.fiverr.com/share/qb8D02"
+                  
                     title="Read more"
                     class="read-more"
                   >

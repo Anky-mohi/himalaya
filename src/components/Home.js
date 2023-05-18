@@ -85,77 +85,6 @@ const Home = () => {
             </div>
           </div>
         </section>
-
-        <div class="container">
-          <div className="introduction__content">
-            <h2>
-              <span class="boldtext">WE HAVE MORE SUCCESS STORIES</span>{" "}
-              <br></br>
-              <span class="orangecolor">THAN OTHER AGENCIES HAVE CLIENTS</span>
-            </h2>
-            <br></br>
-            <p class="pharatext">
-              We grow your business 10X quicker, better, and more intelligently
-              than other Businesses.TechArch Softwares turns an idea into a
-              well-recognized brand!
-            </p>
-          
-            <div class="row">
-              <div class="col-sm">
-                {" "}
-                <img src="./br/clinica espaco saude.jpg" className="brimg" />
-              </div>
-              <div class="col-sm">
-                {" "}
-                <img src="./br/dentalle.jpg" className="brimg" />
-              </div>
-              <div class="col-sm">
-                {" "}
-                <img src="./br/dr aran mattos.jpg" className="brimg" />
-              </div>
-              <div class="col-sm">
-                {" "}
-                <img src="./br/Escola.png" className="brimg" />
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-sm">
-                {" "}
-                <img src="./br/hering.png" className="brimg" />
-              </div>
-              <div class="col-sm">
-                {" "}
-                <img src="./br/LOGOTIPO FUNDO NEGRO.png" className="brimg" />
-              </div>
-              <div class="col-sm">
-                {" "}
-                <img src="./br/masterespaco.png" className="brimg" />
-              </div>
-              <div class="col-sm">
-                {" "}
-                <img src="./br/ODONTOCOMPANY---SEO---OG_IMAGE.jpg" className="brimg" />
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-sm">
-                {" "}
-                <img src="./br/onepoint tecnologia.jpeg" className="brimg" />
-              </div>
-              <div class="col-sm">
-                {" "}
-                <img src="./br/transferir.jpg" className="brimg" />
-              </div>
-              <div class="col-sm">
-                {" "}
-                <img src="./br/shantiterapias.jpg" className="brimg" />
-              </div>
-              <div class="col-sm">
-                {" "}
-                <img src="./br/quantum.jpg" className="brimg" />
-              </div>
-            </div>
-          </div>
-        </div>
         <section class="introduction">
           <div class="container">
             <div class="introduction__content">
@@ -208,9 +137,6 @@ const Home = () => {
                       para desempenho, segurança e otimização de mecanismo de
                       pesquisa Saber mais
                     </div>
-                    <div class="expertise__button">
-                      <a href="#">Know More</a>
-                    </div>
                   </div>
                   <div class="expertise__card">
                     <div class="expertise__heading">Product Development</div>
@@ -223,9 +149,7 @@ const Home = () => {
                       visualmente atraentes, fáceis de usar e otimizados para
                       desempenho Saber mais - Button
                     </div>
-                    <div class="expertise__button">
-                      <a href="#">Know More</a>
-                    </div>
+                    
                   </div>
                   <div class="expertise__card">
                     <div class="expertise__heading">Website Expertise</div>
@@ -239,9 +163,7 @@ const Home = () => {
                       usar e otimizados para desempenho e visibilidade nos
                       mecanismos de pesquisa.
                     </div>
-                    <div class="expertise__button">
-                      <a href="#">Know More</a>
-                    </div>
+            
                   </div>
                   <div class="expertise__card">
                     <div class="expertise__heading">Customer Experience</div>
@@ -255,9 +177,7 @@ const Home = () => {
                       seja personalizada para criar uma experiência memorável e
                       positiva
                     </div>
-                    <div class="expertise__button">
-                      <a href="#">Know More</a>
-                    </div>
+                
                   </div>
                 </div>
               </div>
@@ -282,7 +202,7 @@ const Home = () => {
                       quando projetamos seu site..
                     </p>
                     <a
-                      href="https://www.fiverr.com/share/qb8D02"
+                    
                       title="Read more"
                       class="read-more"
                     >
@@ -301,7 +221,7 @@ const Home = () => {
                       mercado com jovens talentos. .
                     </p>
                     <a
-                      href="https://www.fiverr.com/share/qb8D02"
+                    
                       title="Read more"
                       class="read-more"
                     >
@@ -321,7 +241,7 @@ const Home = () => {
                       clientes..
                     </p>
                     <a
-                      href="https://www.fiverr.com/share/qb8D02"
+                      
                       title="Read more"
                       class="read-more"
                     >
@@ -344,7 +264,7 @@ const Home = () => {
                       criatividade Sample Work..
                     </p>
                     <a
-                      href="https://www.fiverr.com/share/qb8D02"
+                      
                       title="Read more"
                       class="read-more"
                     >
@@ -363,7 +283,7 @@ const Home = () => {
                       tecnologia de maneira econômica..
                     </p>
                     <a
-                      href="https://www.fiverr.com/share/qb8D02"
+                  
                       title="Read more"
                       class="read-more"
                     >
@@ -376,14 +296,14 @@ const Home = () => {
               <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
                 <div class="card">
                   <div class="card-block block-6">
-                    <h3 class="card-title">comércio eletrônico</h3>
+                    <h3 class="card-title">Comércio eletrônico</h3>
                     <p class="card-text">
                       Temos muitas das melhores tecnologias, como usamos
                       reactjs, node js e outras muitas para construir o site do
                       spa beat
                     </p>
                     <a
-                      href="https://www.fiverr.com/share/qb8D02"
+                  
                       title="Read more"
                       class="read-more"
                     >
@@ -396,7 +316,73 @@ const Home = () => {
             </div>
           </div>
         </section>
-        <br></br>
+        <div class="container">
+          <div className="introduction__content">
+            <h2>
+              <span class="boldtext">TEMOS MAIS HISTÓRIAS DE SUCESSO</span>{" "}
+              <br></br>
+              <span class="orangecolor">DO QUE OUTRAS AGÊNCIAS TÊM CLIENTES</span>
+            </h2>
+            <br></br>
+            <p class="pharatext">
+            Nós crescemos o seu negócio 10 vezes mais rápido, melhor e de forma mais inteligente do que outros Softwares Businesses.TechArch transforma uma ideia em uma marca bem reconhecida!!
+            </p>
+          
+            <div class="row">
+              <div class="col-sm">
+                {" "}
+                <img src="./br/clinica espaco saude.jpg" className="brimg" />
+              </div>
+              <div class="col-sm">
+                {" "}
+                <img src="./br/dentalle.jpg" className="brimg" />
+              </div>
+              <div class="col-sm">
+                {" "}
+                <img src="./br/dr aran mattos.jpg" className="brimg" />
+              </div>
+              <div class="col-sm">
+                {" "}
+                <img src="./br/Escola.png" className="brimg" />
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm">
+                {" "}
+                <img src="./br/hering.png" className="brimg" />
+              </div>
+              <div class="col-sm">
+                {" "}
+                <img src="./br/masterespaco.png" className="brimg" />
+              </div>
+              <div class="col-sm">
+                {" "}
+                <img src="./br/ODONTOCOMPANY---SEO---OG_IMAGE.jpg" className="brimg" />
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm">
+                {" "}
+                <img src="./br/onepoint tecnologia.jpeg" className="brimg" />
+              </div>
+              <div class="col-sm">
+                {" "}
+                <img src="./br/transferir.jpg" className="brimg" />
+              </div>
+              <div class="col-sm">
+                {" "}
+                <img src="./br/shantiterapias.jpg" className="brimg" />
+              </div>
+              <div class="col-sm">
+                {" "}
+                <img src="./br/quantum.jpg" className="brimg" />
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
         <section class="contact">
           <div class="container">
             <div class="contact__heading">

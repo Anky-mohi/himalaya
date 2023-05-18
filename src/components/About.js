@@ -47,18 +47,8 @@ const About = () => {
 
       <main>
         <section class="banner">
-          <img src="./about__banner.jpeg" alt="About us banner image" />
+          <img src="./123.jpeg" alt="About us banner image" />
           <div class="banner__content--wrapper">
-            <div class="container">
-              <div class="banner__content">
-                <h1 class="banner__content--heading">Himalayas Tech</h1>
-                <p class="banner__content--supportText">
-                Simples, Intuitivo e Perfeitamente Elaborado!
-                </p>
-                <Link to="/Contact" class="abc"> {" "}
-                  Contact Us</Link>
-              </div>
-            </div>
           </div>
         </section>
 
