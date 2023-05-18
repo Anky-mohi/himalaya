@@ -998,3 +998,52 @@ section .section-title{
   bottom: 40px;
   right: 20px;
 }
+
+.orangecolor {
+  font-size: 60px;
+  font-family: 'Poppins';
+  color: #cb6036;
+}
+
+.pharatext {
+  font-size: 18px;
+  line-height: 30px;
+  color: #000000eb;
+}
+
+
+
+
+
+.et_pb_column, .et_pb_row, .et_pb_row_inner {
+    background-size: cover;
+    /* background-position: 50%; */
+    /* background-repeat: no-repeat; */
+}
+.et_pb_column {
+    float: left;
+    background-size: cover;
+    background-position: 50%;
+    position: relative;
+    z-index: 2;
+    min-height: 1px;
+}
+
+.brimg {
+  width: 200px;
+  height: 200px;
+}
+
+
+
+
+
+
+
+
+.boldtext {
+  font-size: 60px;
+  font-family: 'Poppins';
+  color: black;
+  font-weight: 700;
+}

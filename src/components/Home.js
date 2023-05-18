@@ -15,9 +15,11 @@ const Home = () => {
 
   return (
     <>
-     <div className="whatsapp">
-          <a href="https://wa.me/5511947727979" target="blank"><img src="./icons8-whatsapp-48.png"/></a>
-        </div>
+      <div className="whatsapp">
+        <a href="https://wa.me/5511947727979" target="blank">
+          <img src="./icons8-whatsapp-48.png" />
+        </a>
+      </div>
       <header>
         <div class="container">
           <div class="header">
@@ -44,8 +46,7 @@ const Home = () => {
                 </ul>
               </nav>
             </div>
-            <i class="fa-solid fa-bars">
-            </i>
+            <i class="fa-solid fa-bars"></i>
           </div>
         </div>
       </header>
@@ -77,15 +78,84 @@ const Home = () => {
                 <p class="banner__content--supportText">
                   Simples, Intuitivo e Perfeitamente Elaborado !
                 </p>
-                <a href="https://wa.me/5511947727979" class="abc"
-                  >CHAT NOW</a>
+                <a href="https://wa.me/5511947727979" class="abc">
+                  CHAT NOW
+                </a>
               </div>
-              
             </div>
           </div>
-          
         </section>
 
+        <div class="container">
+          <div className="introduction__content">
+            <h2>
+              <span class="boldtext">WE HAVE MORE SUCCESS STORIES</span>{" "}
+              <br></br>
+              <span class="orangecolor">THAN OTHER AGENCIES HAVE CLIENTS</span>
+            </h2>
+            <br></br>
+            <p class="pharatext">
+              We grow your business 10X quicker, better, and more intelligently
+              than other Businesses.TechArch Softwares turns an idea into a
+              well-recognized brand!
+            </p>
+          
+            <div class="row">
+              <div class="col-sm">
+                {" "}
+                <img src="./br/clinica espaco saude.jpg" className="brimg" />
+              </div>
+              <div class="col-sm">
+                {" "}
+                <img src="./br/dentalle.jpg" className="brimg" />
+              </div>
+              <div class="col-sm">
+                {" "}
+                <img src="./br/dr aran mattos.jpg" className="brimg" />
+              </div>
+              <div class="col-sm">
+                {" "}
+                <img src="./br/Escola.png" className="brimg" />
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm">
+                {" "}
+                <img src="./br/hering.png" className="brimg" />
+              </div>
+              <div class="col-sm">
+                {" "}
+                <img src="./br/LOGOTIPO FUNDO NEGRO.png" className="brimg" />
+              </div>
+              <div class="col-sm">
+                {" "}
+                <img src="./br/masterespaco.png" className="brimg" />
+              </div>
+              <div class="col-sm">
+                {" "}
+                <img src="./br/ODONTOCOMPANY---SEO---OG_IMAGE.jpg" className="brimg" />
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm">
+                {" "}
+                <img src="./br/onepoint tecnologia.jpeg" className="brimg" />
+              </div>
+              <div class="col-sm">
+                {" "}
+                <img src="./br/transferir.jpg" className="brimg" />
+              </div>
+              <div class="col-sm">
+                {" "}
+                <img src="./br/shantiterapias.jpg" className="brimg" />
+              </div>
+              <div class="col-sm">
+                {" "}
+                <img src="./br/quantum.jpg" className="brimg" />
+              </div>
+            </div>
+          </div>
+        </div>
         <section class="introduction">
           <div class="container">
             <div class="introduction__content">
@@ -99,8 +169,10 @@ const Home = () => {
                 outros domínios relacionados.
               </p>
               <div class="introduction__button">
-              <Link to="/Contact" class="abc"> {" "}
-                  Contact Us</Link>
+                <Link to="/Contact" class="abc">
+                  {" "}
+                  Contact Us
+                </Link>
               </div>
             </div>
           </div>
@@ -110,11 +182,15 @@ const Home = () => {
           <div class="container">
             <div class="expertise__wrapper">
               <div class="expertise__leftSide">
-                <div className="img1"> <img  src="./14258.jpg" alt=""/></div>
-               
-                <div className="img2"> <img src="./svg.png" alt="" /></div>
-               
+                <div className="img1">
+                  {" "}
+                  <img src="./14258.jpg" alt="" />
+                </div>
 
+                <div className="img2">
+                  {" "}
+                  <img src="./svg.png" alt="" />
+                </div>
               </div>
               <div class="expertise__rightSide">
                 <div class="expertise__card--wrapper">
@@ -189,74 +265,138 @@ const Home = () => {
           </div>
         </section>
         <section id="what-we-do">
-		<div class="container-fluid">
-			<h2 class="section-title mb-2 h1">O QUE NÓS FAZEMOS</h2>
-			<p class="text-center text-muted h5"> Ter e gerenciar uma estratégia de marketing correta é crucial em um
-            mercado em rápida evolução..</p>
-			<div class="row mt-5">
-				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
-					<div class="card">
-						<div class="card-block block-1">
-							<h3 class="card-title">DESENVOLVIMENTO WEB</h3>
-							<p class="card-text">Um serviço de web design acessível é o que você obtém quando projetamos seu site..</p>
-							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Consulte Mais informação<i class="fa fa-angle-double-right ml-2"></i></a>
-						</div>
-					</div>
-				</div>
-				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
-					<div class="card">
-						<div class="card-block block-2">
-							<h3 class="card-title">Marketing de mídia social
-</h3>
-							<p class="card-text">Temos ideias diferentes e de novas gerações para focar no mercado com jovens talentos.
-
-.</p>
-							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Consulte Mais informação<i class="fa fa-angle-double-right ml-2"></i></a>
-						</div>
-					</div>
-				</div>
-				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
-					<div class="card">
-						<div class="card-block block-3">
-							<h3 class="card-title">SUPORTE GLOBAL</h3>
-							<p class="card-text">Ajudamos as empresas de tecnologia a crescer, fornecendo uma experiência de cliente de classe mundial para seus clientes..</p>
-							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Consulte Mais informação<i class="fa fa-angle-double-right ml-2"></i></a>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
-					<div class="card">
-						<div class="card-block block-4">
-							<h3 class="card-title">Animação e produção de filmes digitais</h3>
-							<p class="card-text">Realizado com paixão, projetado com perfeição, a arte da criatividade Sample Work..</p>
-							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Consulte Mais informação<i class="fa fa-angle-double-right ml-2"></i></a>
-						</div>
-					</div>
-				</div>
-				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
-					<div class="card">
-						<div class="card-block block-5">
-							<h3 class="card-title">SERVIÇOS OFFSHORE</h3>
-							<p class="card-text">Ajudamos você a organizar estratégias de negócios e tecnologia de maneira econômica..</p>
-							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Consulte Mais informação<i class="fa fa-angle-double-right ml-2"></i></a>
-						</div>
-					</div>
-				</div>
-				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
-					<div class="card">
-						<div class="card-block block-6">
-							<h3 class="card-title">comércio eletrônico</h3>
-							<p class="card-text">Temos muitas das melhores tecnologias, como usamos reactjs, node js e outras muitas para construir o site do spa beat</p>
-							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Consulte Mais informação<i class="fa fa-angle-double-right ml-2"></i></a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>	
-	</section>
-    <br></br>
+          <div class="container-fluid">
+            <h2 class="section-title mb-2 h1">O QUE NÓS FAZEMOS</h2>
+            <p class="text-center text-muted h5">
+              {" "}
+              Ter e gerenciar uma estratégia de marketing correta é crucial em
+              um mercado em rápida evolução..
+            </p>
+            <div class="row mt-5">
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+                <div class="card">
+                  <div class="card-block block-1">
+                    <h3 class="card-title">DESENVOLVIMENTO WEB</h3>
+                    <p class="card-text">
+                      Um serviço de web design acessível é o que você obtém
+                      quando projetamos seu site..
+                    </p>
+                    <a
+                      href="https://www.fiverr.com/share/qb8D02"
+                      title="Read more"
+                      class="read-more"
+                    >
+                      Consulte Mais informação
+                      <i class="fa fa-angle-double-right ml-2"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+                <div class="card">
+                  <div class="card-block block-2">
+                    <h3 class="card-title">Marketing de mídia social</h3>
+                    <p class="card-text">
+                      Temos ideias diferentes e de novas gerações para focar no
+                      mercado com jovens talentos. .
+                    </p>
+                    <a
+                      href="https://www.fiverr.com/share/qb8D02"
+                      title="Read more"
+                      class="read-more"
+                    >
+                      Consulte Mais informação
+                      <i class="fa fa-angle-double-right ml-2"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+                <div class="card">
+                  <div class="card-block block-3">
+                    <h3 class="card-title">SUPORTE GLOBAL</h3>
+                    <p class="card-text">
+                      Ajudamos as empresas de tecnologia a crescer, fornecendo
+                      uma experiência de cliente de classe mundial para seus
+                      clientes..
+                    </p>
+                    <a
+                      href="https://www.fiverr.com/share/qb8D02"
+                      title="Read more"
+                      class="read-more"
+                    >
+                      Consulte Mais informação
+                      <i class="fa fa-angle-double-right ml-2"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+                <div class="card">
+                  <div class="card-block block-4">
+                    <h3 class="card-title">
+                      Animação e produção de filmes digitais
+                    </h3>
+                    <p class="card-text">
+                      Realizado com paixão, projetado com perfeição, a arte da
+                      criatividade Sample Work..
+                    </p>
+                    <a
+                      href="https://www.fiverr.com/share/qb8D02"
+                      title="Read more"
+                      class="read-more"
+                    >
+                      Consulte Mais informação
+                      <i class="fa fa-angle-double-right ml-2"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+                <div class="card">
+                  <div class="card-block block-5">
+                    <h3 class="card-title">SERVIÇOS OFFSHORE</h3>
+                    <p class="card-text">
+                      Ajudamos você a organizar estratégias de negócios e
+                      tecnologia de maneira econômica..
+                    </p>
+                    <a
+                      href="https://www.fiverr.com/share/qb8D02"
+                      title="Read more"
+                      class="read-more"
+                    >
+                      Consulte Mais informação
+                      <i class="fa fa-angle-double-right ml-2"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+                <div class="card">
+                  <div class="card-block block-6">
+                    <h3 class="card-title">comércio eletrônico</h3>
+                    <p class="card-text">
+                      Temos muitas das melhores tecnologias, como usamos
+                      reactjs, node js e outras muitas para construir o site do
+                      spa beat
+                    </p>
+                    <a
+                      href="https://www.fiverr.com/share/qb8D02"
+                      title="Read more"
+                      class="read-more"
+                    >
+                      Consulte Mais informação
+                      <i class="fa fa-angle-double-right ml-2"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <br></br>
         <section class="contact">
           <div class="container">
             <div class="contact__heading">
@@ -360,7 +500,6 @@ const Home = () => {
           </div>
         </section>
       </main>
-      
 
       <div class="main-page-sec main-page-sec2" style={styles}>
         <div class="row">
@@ -539,9 +678,7 @@ const Home = () => {
                 <span class="expertise__heading"> Contact Us</span>
               </li>
               <li class="expertise__supportText">
-                <p class="address-p">
-                 São Paulo Brazil
-                </p>
+                <p class="address-p">São Paulo Brazil</p>
                 <p>
                   <i class="fa fa-envelope-o" aria-hidden="true"></i>
                   &nbsp; himalayasbrazil@gmail.com
@@ -557,8 +694,7 @@ const Home = () => {
                 </p>
                 <hr></hr>
                 <p class="address-p">
-                  new sunny enclave ,
-                  mohali 140301, india 
+                  new sunny enclave , mohali 140301, india
                 </p>
                 <p>
                   <i class="fa fa-envelope-o" aria-hidden="true"></i>
@@ -567,7 +703,7 @@ const Home = () => {
                 <p>
                   <i class="fa fa-phone" aria-hidden="true"></i>
                   &nbsp; 9872567925 &nbsp;{" "}
-                 <img
+                  <img
                     className="cont"
                     src="./icons8-india-48.png"
                     alt="Brand Logo"
