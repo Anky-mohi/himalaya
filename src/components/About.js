@@ -310,7 +310,7 @@ Criamos soluções de aplicativos para web e dispositivos móveis que irão enca
               </li>
               <li class="expertise__supportText">
                 <p class="address-p">
-                  Rua Manilla 407 Jd São Fernando Barueri - São Paulo Brazil
+                 São Paulo Brazil
                 </p>
                 <p>
                   <i class="fa fa-envelope-o" aria-hidden="true"></i>
@@ -377,6 +377,7 @@ Criamos soluções de aplicativos para web e dispositivos móveis que irão enca
             <div class="footer__monospace">
               <p>2023 © Himalayas Techies. All rights Reserved.</p>
             </div>
+            
           </div>
         </div>
       </footer>

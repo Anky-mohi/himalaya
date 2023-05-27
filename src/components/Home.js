@@ -12,6 +12,23 @@ const Home = () => {
   const text = {
     color: "white",
   };
+  function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+  }
+  
+  // Close the dropdown if the user clicks outside of it
+  window.onclick = function(event) {
+    if (!event.target.matches('.dropbtn')) {
+      var dropdowns = document.getElementsByClassName("dropdown-content");
+      var i;
+      for (i = 0; i < dropdowns.length; i++) {
+        var openDropdown = dropdowns[i];
+        if (openDropdown.classList.contains('show')) {
+          openDropdown.classList.remove('show');
+        }
+      }
+    }
+  }
 
   return (
     <>
@@ -46,7 +63,21 @@ const Home = () => {
                 </ul>
               </nav>
             </div>
-            <i class="fa-solid fa-bars"></i>
+     <div class="dropdown">
+  <button onClick={myFunction} class="dropbtn">      <i class="fa-solid fa-bars">
+</i>
+</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#">                    <Link to="/About">About</Link>
+</a>
+    <a href="#">                    <Link to="/Services">Services</Link>
+</a>
+    <a href="#"><Link to="/Contact">
+                
+                  Contact Us
+                </Link></a>
+  </div>
+</div>
           </div>
         </div>
       </header>
